@@ -33,6 +33,7 @@ purpose: use a simple and efficient branch naming convention
 
 source: https://dev.to/suprabhasupi/github-branch-naming-convention-2d4n
 
+infrastructure/xx-title
 feature/xx-title
 release/xx-title
 template/xx-title
