@@ -1,0 +1,12 @@
+name: continuous_integration
+
+on:  [push, pull_request]
+
+jobs:
+  build:
+    name: 🛠 Build and file optimization 
+    runs-on: ubuntu-latest
+    steps:
+      - name: git-checkout
+        uses: actions/checkout@v2
+
